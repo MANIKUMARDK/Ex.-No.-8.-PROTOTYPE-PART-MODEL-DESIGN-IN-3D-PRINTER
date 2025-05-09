@@ -1,4 +1,7 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No. 3   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+
+### Name: MANIKUMAR D.K
+### Register Number:212223230121
 
 ### DATE: 
 ## AIM: 
@@ -47,8 +50,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+[WORKSHOP  empd.pdf](https://github.com/user-attachments/files/19996630/WORKSHOP.empd.pdf)
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
